@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText(this,"adel",Toast.LENGTH_LONG).show()
+        Toast.makeText(this,"kamal",Toast.LENGTH_LONG).show()
     }
 }
